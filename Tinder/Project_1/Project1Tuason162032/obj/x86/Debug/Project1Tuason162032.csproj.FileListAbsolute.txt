@@ -1,0 +1,5 @@
+/Users/Meg/Projects/Project1Tuason162032/Project1Tuason162032/bin/Debug/Project1Tuason162032.exe
+/Users/Meg/Projects/Project1Tuason162032/Project1Tuason162032/bin/Debug/Project1Tuason162032.pdb
+/Users/Meg/Projects/Project1Tuason162032/Project1Tuason162032/obj/x86/Debug/Project1Tuason162032.csproj.CoreCompileInputs.cache
+/Users/Meg/Projects/Project1Tuason162032/Project1Tuason162032/obj/x86/Debug/Project1Tuason162032.exe
+/Users/Meg/Projects/Project1Tuason162032/Project1Tuason162032/obj/x86/Debug/Project1Tuason162032.pdb
